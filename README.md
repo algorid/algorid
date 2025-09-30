@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome!
+ 
+“개발자 지훈입니다"
 
-<!--
-**algorid/algorid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 문제를 끝까지 파고드는 개발자 🧩  
+- 새로운 기술 문서 읽는 걸 좋아함 📚  
+- 효율적인 자동화와 구조화된 코드를 추구 💻
+
+---
